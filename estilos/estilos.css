@@ -1,0 +1,14 @@
+.letra-grande{
+    color:rgb(109, 245, 31);
+font-size: 40px; text-align: center;
+}
+.letra-grande2{
+    color:rgb(40, 55, 221);
+font-size: 150px; text-align: right;
+}
+.letra-grande3{
+     text-align: left;
+}
+.letra-grande4{
+    text-align: right;
+}
